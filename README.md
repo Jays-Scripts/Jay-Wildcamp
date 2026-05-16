@@ -109,31 +109,27 @@ Built with scalability and server performance in mind, the resource supports mul
 
 # 📸 Preview
 
+<p align="center">
+  <img src="camping script.gif" width="90%" alt="Preview 2"/>
+</p>
+
+---
 
 <p align="center">
-  <img src="PASTE_IMAGE_LINK_1_HERE" width="90%" alt="Preview 1"/>
+  <img src="ca (1).gif" width="90%" alt="Preview 1"/>
 </p>
 
 ---
 
 
+
 <p align="center">
-  <img src="PASTE_IMAGE_LINK_2_HERE" width="90%" alt="Preview 2"/>
+  <img src="camppppp.webp" width="90%" alt="Preview 3"/>
 </p>
 
 ---
 
 
-<p align="center">
-  <img src="PASTE_IMAGE_LINK_3_HERE" width="90%" alt="Preview 3"/>
-</p>
-
----
-
-
-<p align="center">
-  <img src="PASTE_IMAGE_LINK_4_HERE" width="90%" alt="Preview 4"/>
-</p>
 
 ---
 
